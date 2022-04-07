@@ -1,7 +1,7 @@
 ### Hi there, My name is Gabriel Lima  👋
 
 - 🔭 I’m currently working with Computer Vision at <a href="http://geovista.com.br/">Geovista</a> 
-- 🌱 I’m doing master's degree at São Paulo University 
+- 🌱 I’m getting master's degree at São Paulo University 
 - 🥉 I’m the 61st best programmer in latin america (2021 - IBM Behind The Code)
 
 <div align="center">
