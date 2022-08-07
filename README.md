@@ -23,7 +23,7 @@
   <img align="center" alt="Gab-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Gab-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Gab-gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">          
-  <img align="center" alt="Gab-dask" height="30" width="60" src="https://docs.dask.org/en/stable/_images/dask_horizontal_white_no_pad.svg">
+  <img align="center" alt="Gab-dask" height="30" width="60" src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg">
   
   
    ##
